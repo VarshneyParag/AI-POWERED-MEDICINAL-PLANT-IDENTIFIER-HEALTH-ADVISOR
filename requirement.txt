@@ -1,0 +1,13 @@
+flask
+flask-cors
+opencv-python
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+tqdm
+werkzeug
+pillow
+scipy
+gunicorn
