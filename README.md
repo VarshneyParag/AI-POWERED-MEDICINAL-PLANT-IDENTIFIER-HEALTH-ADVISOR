@@ -150,3 +150,6 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 📄 License
 This project is for educational and research purposes. Please ensure proper attribution when using the code or methodology.
+
+DATASET LINK:- https://www.kaggle.com/datasets/rohithnd/medicinal-plant-dataset?utm_source
+
